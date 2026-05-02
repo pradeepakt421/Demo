@@ -8,3 +8,8 @@ function getALLProductes()
 function postProduct(){
     return "Posted"
 }
+
+//Put
+function PutProduct(){
+    return "Put.."
+}
