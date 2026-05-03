@@ -19,4 +19,3 @@ function DeleteProduct(){
     return "DeleteProduct"
 }
 
-//hello
