@@ -1,7 +1,7 @@
 //Get
 function getALLProductes()
 {
-    return "my products"
+    return "lohit"
 }
 
 //Post 
