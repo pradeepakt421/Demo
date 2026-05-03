@@ -13,3 +13,8 @@ function postProduct(){
 function PutProduct(){
     return "Put.."
 }
+
+//Delete
+function DeleteProduct(){
+    return "DeleteProduct"
+}
