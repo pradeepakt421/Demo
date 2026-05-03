@@ -1,7 +1,7 @@
 //Get
 function getALLProductes()
 {
-    return "All products"
+    return "my products"
 }
 
 //Post 
